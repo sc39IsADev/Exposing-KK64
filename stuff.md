@@ -18,6 +18,15 @@ Anyways...
 The first thing I did was remove him from [the OpenOS Github organization](https://github.com/The-OpenOS-Team).  
 Once I did that, I decided to try and reach out to his friends and tell them about what happened.  
 Sadly, they did not respond. However I now have some plans on who to try and contact next about it.  
+I eventually told him about this site, and this is how he responded:  
+![](images/his_response_to_this.png)  
+First of all, he says "I MADE THE OPENOS GITHUB HOW".  
+Since he promoted me to Owner, I can demote and kick him out regardless if he created it or not.  
+Also, he said "You also lied when you said I humiliated u for no reason".  
+Sort of but not really. I did leave out the details of what I did that caused it, but that info isn't important anyways.  
+Lastly, he says "I decided to try and reach out to his friends and tell them about what happened. You fool. I DON'T HAVE ANY".  
+Nope. Not even close. I have contact with his MSN friend which I won't say the name for, the Project Infinity OG `floppydisk`, and ZeroAir Games.  
 ## End (for now)
 That's all the info I have for now.  
 I'll update this repo when I have more stuff to show.  
+Also note that some info may be out of order.
