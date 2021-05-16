@@ -26,6 +26,8 @@ Also, he said "You also lied when you said I humiliated u for no reason".
 Sort of but not really. I did leave out the details of what I did that caused it, but that info isn't important anyways.  
 Lastly, he says "I decided to try and reach out to his friends and tell them about what happened. You fool. I DON'T HAVE ANY".  
 Nope. Not even close. I have contact with his MSN friend which I won't say the name for, the Project Infinity OG `floppydisk`, and ZeroAir Games.  
+At some point he also threatned to dox me, which is dumb and illegal.  
+![](images/ip_leak_threat.png)  
 ## End (for now)
 That's all the info I have for now.  
 I'll update this repo when I have more stuff to show.  
